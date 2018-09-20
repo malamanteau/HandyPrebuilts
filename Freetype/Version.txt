@@ -1,2 +1,5 @@
 Freetype version 2.9.1 prebuilt obtained from here:
 https://github.com/ubawurinna/freetype-windows-binaries/releases
+
+Note from the repo:
+freetype.dll uses the Universal CRT and therefore requires Visual C++ 2017 Redistributable to be present on system (VC++ 2017 Redistributable supersedes VC++ 2015 Redistributable).
