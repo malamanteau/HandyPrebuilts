@@ -1,0 +1,3 @@
+Source from April 26th, 2018 fork of GLFW.
+
+NOTE: These prebuilts DO NOT SUPPORT JOYSTICKS/GAMEPADS. I disabled this support in these builds due to conflicts with certain Corsair keyboards causing long hangs on joystick initialization.

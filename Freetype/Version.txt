@@ -1,0 +1,2 @@
+Freetype version 2.9.1 prebuilt obtained from here:
+https://github.com/ubawurinna/freetype-windows-binaries/releases
