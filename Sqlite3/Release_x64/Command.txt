@@ -1,0 +1,2 @@
+Command used to generate lib and exp files:
+lib /def:sqlite3.def /out:sqlite3.lib /machine:x64

@@ -1,2 +1,2 @@
 # HandyPrebuilts
-Grabbag prebuilt C/C++ libraries
+Grabbag of prebuilt C/C++ libraries
