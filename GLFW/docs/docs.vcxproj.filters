@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\monarch20XX_DS3_OGL_DX_WebGL\GLFWBuild\CMakeFiles\4644479921239475d664c09c62042ecb\docs.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\monarch20XX_DS3_OGL_DX_WebGL\GLFWBuild_Source\docs\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\monarch20XX_DS3_OGL_DX_WebGL\GLFWBuild\docs\CMakeFiles\docs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F5C4DEB2-E002-31AE-BE3D-B6E804140BB2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
